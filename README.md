@@ -1,3 +1,3 @@
-<h1>Home-SOC Analysis with Azure</h1>
+<h1>Elastic SIEM Home Lab</h1>
 
 
